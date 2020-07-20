@@ -45,7 +45,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 Experiment Number	1																		
 Comment[IDR Experiment Name]	idr0087-paci-nuclearimport/experimentA		
 
-Experiment Sample Type cell																
+Experiment Sample Type	cell																
 Experiment Description	Confocal time-lapse images of nuclear import into permeabilised  cells. All experiments are labelled according to the different cargo used: capsid MS2_S37P, I53-47 and MS2, and number of NLSs on the capsid surface. For each experiment, 12 areas containing approximately 10 cells were imaged at the same time. Where independent biological replicates of the same sample are available, these are labelled as R1, R2 etc.  			
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT): X 640 Y 640 Z 1 C 3 T 40	Total Tb: 0.0451													
 Experiment Example Images																		
