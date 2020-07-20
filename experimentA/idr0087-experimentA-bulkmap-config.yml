@@ -19,10 +19,6 @@ columns:
     clientname: "#NLSs"
     include: yes
 
-  - name: Comment [Assay Description]
-    clientname: Assay Description
-    include: yes
-
   - name: Channels
     clientname: Channels
     include: yes
