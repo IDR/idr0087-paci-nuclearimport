@@ -19,11 +19,11 @@ Study BioImage Archive Accession
 Study Public Release Date	2020-07-22	
 																				
 # Study Publication																			
-Study PubMed ID																			
+Study PubMed ID	32692309																	
 Study Publication Title	Molecular determinants of large cargo transport into the nucleus				
 Study Author List	Paci G, Zheng T, Caria J, Zilman A, Lemke EA 				
 Study PMC ID																			
-Study DOI																													
+Study DOI	https://doi.org/10.7554/eLife.55963																											
 # Study Contacts																			
 Study Person Last Name	Caria															
 Study Person First Name	Joana																		
