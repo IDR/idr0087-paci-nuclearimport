@@ -29,14 +29,14 @@ Study Person Last Name	Caria
 Study Person First Name	Joana																		
 Study Person Email	jcaria@uni-mainz.de																		
 Study Person Address	Johannes Gutenberg-University Mainz, Hanns-Dieter-Huesch-Weg 15, Mainz 55128				
-Study Person ORCID	https://orcid.org/0000-0002-8791-4766																		
+Study Person ORCID	0000-0002-8791-4766																		
 Study Person Roles	submitter																													
 # Study License and Data DOI																			
 Study License	CC-BY 4.0																		
 Study License URL	https://creativecommons.org/licenses/by/4.0/																		
 Study Copyright	Paci et al																		
 Study Data Publisher	University of Dundee																		
-Study Data DOI	
+Study Data DOI	https://doi.org/10.17867/10000140
 																
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi															
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																														
